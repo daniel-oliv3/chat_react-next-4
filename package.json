@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/daniel-oliv3/chat_react-next-4.git",
   "author": "Daniel Oliveira <39778932+daniel-oliv3@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
